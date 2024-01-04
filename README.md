@@ -10,6 +10,7 @@
 3. Chrome浏览器以及浏览器驱动下载:  https://googlechromelabs.github.io/chrome-for-testing/
 4. 每打开程序第一次执行**或许**需**科学上网**
 5. **在configure.py中填写你的账号密码**
+6. 本程序针对未对网页最初页面结构进行自我个性化展示的网页结构
 
 
 #### 扩展性
