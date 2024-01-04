@@ -54,7 +54,7 @@ def auto_login(driver, wait):
     driver.switch_to.window(new_window_handle)
 
 
-# 自主选课设计
+# 自主选课设计——根据你自己的需求进行相应的改写
 def choose(driver, wait):
     # 点击查询
     wait.until(EC.presence_of_element_located(
